@@ -1,0 +1,11 @@
+*.h5  
+*.xmf  
+*.exo  
+*.csv  
+*.json
+*.zip
+*.vtk
+*.gz
+*.png
+*.jpg
+output/
